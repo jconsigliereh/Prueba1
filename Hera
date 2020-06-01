@@ -2,8 +2,74 @@
 <html>
   <head>
     <title> Hera Webpage!  </title>
+    <style>
+      h1{
+        color: #fa8155;
+        text-aling: center;
+        }
+      <style>
    </head>
    <body>
-    Hello, this is the new page of Hera!  </body>
+    <h1>Hello, this is the new page of Hera!  </h1>
+    <h1>Joyas de buena calidad a un precio accesible</h1>
+    
+    <h5style="color:#fa8155;text-align:center;">By Sofía</h5>
+    
+    
+    <h1> Joyas </h1>
+    <style>
+      table {
+        border: 2px solid black;
+        border-collapse: collapse;
+        width: 50%;
+      }
+      th, td {
+        border: 1px solid black;
+        padding: 5px;
+        text-align: center;
+      }
+      th {
+        backround-color: lightgray;
+      }
+    </style>
+    <table>
+      <tr>
+        <th> Tipo </th>
+        <th> Material </th>
+        <th> Peso </th>
+        <th> Piedra </th>
+       </tr>
+       <tr>
+        <td> Aros </td>
+        <td> Oro </td>
+        <td> 15g </td>
+        <td> Agua Marina </td>
+       </tr>
+       <tr>
+        <td> Collar </td>
+        <td> Plata </td>
+        <td> 20g </td>
+        <td> Esmeralda </td>
+       </tr>
+      </table>
+      
+    <style>
+      div {
+        backround-color: #a2fcf6;
+        width: 150px;
+        height: 200px;
+        margin: 30px;
+        padding: 20px;
+        font-family: Arial, sans-serif;
+        font-sixe: 28px;
+        font-weight: bold;
+        border: 3px solid blue;
+       }
+     </style>
+     <div> Secciones </div>
+     
+    <img src="joya.jpg" width="50%">
+    
+    </body>
  </html>
     
